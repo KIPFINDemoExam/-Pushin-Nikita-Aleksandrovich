@@ -1,0 +1,16 @@
+C:\Users\9WSI\source\repos\testApp\testApp\bin\Debug\testApp.exe.config
+C:\Users\9WSI\source\repos\testApp\testApp\bin\Debug\testApp.exe
+C:\Users\9WSI\source\repos\testApp\testApp\bin\Debug\testApp.pdb
+C:\Users\9WSI\source\repos\testApp\testApp\bin\Debug\EntityFramework.dll
+C:\Users\9WSI\source\repos\testApp\testApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\9WSI\source\repos\testApp\testApp\bin\Debug\EntityFramework.xml
+C:\Users\9WSI\source\repos\testApp\testApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\9WSI\source\repos\testApp\testApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\9WSI\source\repos\testApp\testApp\obj\Debug\testApp.csprojAssemblyReference.cache
+C:\Users\9WSI\source\repos\testApp\testApp\obj\Debug\testApp.Form1.resources
+C:\Users\9WSI\source\repos\testApp\testApp\obj\Debug\testApp.Properties.Resources.resources
+C:\Users\9WSI\source\repos\testApp\testApp\obj\Debug\testApp.csproj.GenerateResource.cache
+C:\Users\9WSI\source\repos\testApp\testApp\obj\Debug\testApp.csproj.CoreCompileInputs.cache
+C:\Users\9WSI\source\repos\testApp\testApp\obj\Debug\testApp.csproj.CopyComplete
+C:\Users\9WSI\source\repos\testApp\testApp\obj\Debug\testApp.exe
+C:\Users\9WSI\source\repos\testApp\testApp\obj\Debug\testApp.pdb
