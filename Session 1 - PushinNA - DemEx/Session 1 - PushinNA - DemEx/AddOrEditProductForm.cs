@@ -99,7 +99,7 @@ namespace Session_1___PushinNA___DemEx
                         Product product = productCollection.First();
 
                         product.Title = textBox1.Text;
-                        product.MainImagePath = " Товары автосервиса\\" + textBox2.Text + ".jpg";
+                        product.MainImagePath = "Товары автосервиса\\" + textBox2.Text + ".jpg";
                         product.Cost = Convert.ToDecimal(textBox3.Text);
                         
                         ctx.SaveChanges();
