@@ -1,0 +1,17 @@
+I:\-Pushin-Nikita-Aleksandrovich\.vs\-Pushin-Nikita-Aleksandrovich\v15\Session 1 - PushinNA - DemEx\Session 1 - PushinNA - DemEx\bin\Debug\Session 1 - PushinNA - DemEx.exe.config
+I:\-Pushin-Nikita-Aleksandrovich\.vs\-Pushin-Nikita-Aleksandrovich\v15\Session 1 - PushinNA - DemEx\Session 1 - PushinNA - DemEx\bin\Debug\Session 1 - PushinNA - DemEx.exe
+I:\-Pushin-Nikita-Aleksandrovich\.vs\-Pushin-Nikita-Aleksandrovich\v15\Session 1 - PushinNA - DemEx\Session 1 - PushinNA - DemEx\bin\Debug\Session 1 - PushinNA - DemEx.pdb
+I:\-Pushin-Nikita-Aleksandrovich\.vs\-Pushin-Nikita-Aleksandrovich\v15\Session 1 - PushinNA - DemEx\Session 1 - PushinNA - DemEx\bin\Debug\EntityFramework.dll
+I:\-Pushin-Nikita-Aleksandrovich\.vs\-Pushin-Nikita-Aleksandrovich\v15\Session 1 - PushinNA - DemEx\Session 1 - PushinNA - DemEx\bin\Debug\EntityFramework.SqlServer.dll
+I:\-Pushin-Nikita-Aleksandrovich\.vs\-Pushin-Nikita-Aleksandrovich\v15\Session 1 - PushinNA - DemEx\Session 1 - PushinNA - DemEx\bin\Debug\EntityFramework.xml
+I:\-Pushin-Nikita-Aleksandrovich\.vs\-Pushin-Nikita-Aleksandrovich\v15\Session 1 - PushinNA - DemEx\Session 1 - PushinNA - DemEx\bin\Debug\EntityFramework.SqlServer.xml
+I:\-Pushin-Nikita-Aleksandrovich\.vs\-Pushin-Nikita-Aleksandrovich\v15\Session 1 - PushinNA - DemEx\Session 1 - PushinNA - DemEx\bin\Debug\ru\EntityFramework.resources.dll
+I:\-Pushin-Nikita-Aleksandrovich\.vs\-Pushin-Nikita-Aleksandrovich\v15\Session 1 - PushinNA - DemEx\Session 1 - PushinNA - DemEx\obj\Debug\Session 1 - PushinNA - DemEx.csprojAssemblyReference.cache
+I:\-Pushin-Nikita-Aleksandrovich\.vs\-Pushin-Nikita-Aleksandrovich\v15\Session 1 - PushinNA - DemEx\Session 1 - PushinNA - DemEx\obj\Debug\Session_1___PushinNA___DemEx.Catalog.resources
+I:\-Pushin-Nikita-Aleksandrovich\.vs\-Pushin-Nikita-Aleksandrovich\v15\Session 1 - PushinNA - DemEx\Session 1 - PushinNA - DemEx\obj\Debug\Session_1___PushinNA___DemEx.Properties.Resources.resources
+I:\-Pushin-Nikita-Aleksandrovich\.vs\-Pushin-Nikita-Aleksandrovich\v15\Session 1 - PushinNA - DemEx\Session 1 - PushinNA - DemEx\obj\Debug\Session 1 - PushinNA - DemEx.csproj.GenerateResource.cache
+I:\-Pushin-Nikita-Aleksandrovich\.vs\-Pushin-Nikita-Aleksandrovich\v15\Session 1 - PushinNA - DemEx\Session 1 - PushinNA - DemEx\obj\Debug\Session 1 - PushinNA - DemEx.csproj.CoreCompileInputs.cache
+I:\-Pushin-Nikita-Aleksandrovich\.vs\-Pushin-Nikita-Aleksandrovich\v15\Session 1 - PushinNA - DemEx\Session 1 - PushinNA - DemEx\obj\Debug\Session 1 - PushinNA - DemEx.csproj.CopyComplete
+I:\-Pushin-Nikita-Aleksandrovich\.vs\-Pushin-Nikita-Aleksandrovich\v15\Session 1 - PushinNA - DemEx\Session 1 - PushinNA - DemEx\obj\Debug\Session 1 - PushinNA - DemEx.exe
+I:\-Pushin-Nikita-Aleksandrovich\.vs\-Pushin-Nikita-Aleksandrovich\v15\Session 1 - PushinNA - DemEx\Session 1 - PushinNA - DemEx\obj\Debug\Session 1 - PushinNA - DemEx.pdb
+I:\-Pushin-Nikita-Aleksandrovich\.vs\-Pushin-Nikita-Aleksandrovich\v15\Session 1 - PushinNA - DemEx\Session 1 - PushinNA - DemEx\obj\Debug\Session_1___PushinNA___DemEx.AddOrEditProductForm.resources
